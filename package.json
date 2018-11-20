@@ -1,0 +1,12 @@
+{
+  "name": "serverless-image-optimizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Johnny Zabala <jzabala.s@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "imagemin": "^6.0.0",
+    "imagemin-pngquant": "^6.0.0"
+  }
+}
